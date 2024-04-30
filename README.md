@@ -51,4 +51,4 @@ GPL-3.0 License
 - 姓名：孟宁
 - 单位：中国科学技术大学
 - github ID：[https://github.com/mengning](https://github.com/mengning)
-- email：mengning[AT]ust.edu.cn
+- email：mengning@ustc.edu.cn
